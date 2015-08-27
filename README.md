@@ -1,5 +1,8 @@
 # David2Printer
 A program to convert massage between David 3D laser scanner and A reprap 3D printer or other cnc device; In order to use the two to creat a automotic running scanner 
+
+use RXTX for java ：http://fizzed.com/oss/rxtx-for-java
+
 #中文
 David 版本 v3.10.4
 本程序旨在为David 3D laser scanner 和 3D打印机 或者 其他CNC设备之间建立联系，让后者来完成精确的扫描工作；同时通过David2Printer对两者的控制，实现一键全自动360度扫描。
